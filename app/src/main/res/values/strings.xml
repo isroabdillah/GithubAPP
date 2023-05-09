@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Github APP</string>
+
+    <string name="tab1">Followers</string>
+    <string name="tab2">Followings</string>
+
+    <string name="namagithub">Isro Abdillah</string>
+    <string name="linkgithub">https://github.com/isroabdillah</string>
+
+    <string name="userNone">Akun yang anda cari tidak ada</string>
+    <string name="followingNone">0 Followings</string>
+    <string name="followerNone">0 Followers</string>
+
+    <string name="FavoriteIcon">This is a favorite icon</string>
+
+    <string name="repositoryKet">Repository</string>
+
+    <string name="contentDescriptionDetail">image profile from user</string>
+
+    <string name="share">Home</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masukan username</string>
+    <string name="userFavoriteNone">anda belum menambahkan favorite</string>
+
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="IconSplash">splash icon</string>
+
+    <string name="nightmode">Setting Night Mode</string>
+    <string name="descriptionNightMode">Turn on night mode</string>
+    <string name="descriptionOffNightMode">Turn off night mode</string>
+
+    <string name="deleteFromFav">is deleted from favorite</string>
+    <string name="addToFav">is added to favorite</string>
+    <string name="seeFavorite">See favorite</string>
+    <string name="undo">Undo</string>
+
+
+    <string name="favoriteUser">Favorite User</string>
+</resources>

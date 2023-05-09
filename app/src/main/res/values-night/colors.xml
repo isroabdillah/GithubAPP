@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#141414</color>
+
+    <color name="black4">#121212</color>
+
+    <color name="warna1">#5FE7FF</color>
+    <color name="black2">#EFEFEF</color>
+    <color name="grey1">#D3D3D3</color>
+    <color name="grey2">#B5B5B5</color>
+    <color name="grey3">#CECECE</color>
+    <color name="kuning">#FFC22A</color>
+    <color name="oranye">#FF833D</color>
+    <color name="oranye2">#FF4E17</color>
+
+    <style name="ProgressBarStyle">
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>
